@@ -1,3 +1,9 @@
+# 0.1.9
+## 17 ago 2026
+- Preferências de preset e RAM persistidas no diretório de dados do launcher
+- Configurações mantidas após reiniciar ou atualizar o aplicativo
+- Migração automática das preferências antigas do renderer
+
 # 0.1.8
 ## 17 ago 2026
 - Prism permanece oculto depois que o Minecraft inicia
