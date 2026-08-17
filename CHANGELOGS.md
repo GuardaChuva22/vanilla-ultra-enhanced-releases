@@ -1,3 +1,9 @@
+# 0.1.7
+## 17 ago 2026
+- Controle manual da memória do Minecraft por slider e valor numérico
+- Recomendações de RAM ajustadas automaticamente conforme o hardware e o preset
+- Memória personalizada aplicada diretamente na instância Prism antes de iniciar o jogo
+
 # 0.1.6
 ## 17 ago 2026
 - Compatibilidade do ModernFix ampliada para Minecraft 26.2, desativando automaticamente os mixins incompatíveis conhecidos
