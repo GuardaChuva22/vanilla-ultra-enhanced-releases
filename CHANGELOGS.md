@@ -1,3 +1,9 @@
+# 0.1.8
+## 17 ago 2026
+- Prism permanece oculto depois que o Minecraft inicia
+- Console e janela do Prism não aparecem quando o jogo fecha ou sofre crash
+- Configuração da instância corrigida automaticamente para encerrar o motor após o jogo
+
 # 0.1.7
 ## 17 ago 2026
 - Controle manual da memória do Minecraft por slider e valor numérico
