@@ -1,3 +1,8 @@
+# 0.1.6
+## 17 ago 2026
+- Compatibilidade do ModernFix ampliada para Minecraft 26.2, desativando automaticamente os mixins incompatíveis conhecidos
+- Shader Complementary Reimagined r5.8.1 garantido na pasta da instância antes de iniciar o jogo
+
 # 0.1.5
 ## 17 ago 2026
 - Shader Complementary Reimagined r5.8.1 incluído na instância
