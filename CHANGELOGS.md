@@ -1,3 +1,10 @@
+# 0.1.10
+## 18 ago 2026
+- Novo preset Ultra + Upscaling combina o addon de performance do hardware com Super Resolution
+- Super Resolution bundled no launcher e sincronizado na mesma instância Fabric do Minecraft
+- Addons do perfil combinados exibidos nas Configurações e removidos ao trocar de preset
+- JAR validado por tamanho e SHA-256 antes de ser usado
+
 # 0.1.9
 ## 17 ago 2026
 - Preferências de preset e RAM persistidas no diretório de dados do launcher
